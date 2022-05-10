@@ -3,10 +3,10 @@ Portfolio : Dépôt éponyme, TP2, TP3, Activité 8 et Activité 9
 
 Dépot éponyme: https://github.com/YakoubKhedidja/YakoubKhedidja
 
-Travail Pratique 2: https://github.com/YakoubKhedidja/Travail-Pratique2
+Travail Pratique 2: https://github.com/YakoubKhedidja/travail_pratique_2
 
-Traveil Pratique 3: https://github.com/YakoubKhedidja/Travail_pratique_3
+Traveil Pratique 3: https://github.com/YakoubKhedidja/travail_pratique_3
 
-Activité 8: https://github.com/YakoubKhedidja/KhedidjaYakoub.github.io
+Activité 8: https://github.com/YakoubKhedidja/activite_8
 
-Activité 9: https://github.com/YakoubKhedidja/Activite9
+Activité 9: https://github.com/YakoubKhedidja/activite_9
